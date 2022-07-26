@@ -1,7 +1,9 @@
 # practice-Python
-practice ML
+## About Basic Folder
+
 This is my first machine learning study.
-It was mostly lacking and interesting things.
+
+I think this study is thin but was focusing on interesting for me.
 
 I studied while watching this YouTube.
 
