@@ -1,4 +1,10 @@
 # practice-Python
+## About Algoritm Folder
+
+The folder contains the algorithm code when studying Baekjoon
+Baekjoon is a code practice site
+
+BACKJOON: https://www.acmicpc.net/
 
 ## About 2nd Folder
 
