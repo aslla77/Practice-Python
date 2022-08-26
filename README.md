@@ -1,4 +1,10 @@
 # practice-Python
+## About SuanLab
+
+Review and learn various Python modules
+
+Youtube: https://www.youtube.com/c/이수안컴퓨터연구소
+
 ## About Algoritm Folder
 
 The folder contains the algorithm code when studying Baekjoon
