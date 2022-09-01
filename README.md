@@ -1,4 +1,9 @@
 # practice-Python
+## About 혼공머
+
+혼자 공부하는 머신러닝 +딥러닝 책의 예제
+skitlearn이라던지 다양한 기본 알고리즘을 공부하기 위해 시작 하였습니다
+
 ## About SuanLab
 
 Review and learn various Python modules
